@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/article/a755c52f301e82b0ce2a5aacf895a3bd38fc2720.png@764w_804h_!web-article-pic.avif" group-title="陕西频道",宝鸡一套
+#EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/37b116385343fbf2d30e54e2f57eca8064388f3b.jpg?tbpicau=2023-10-05-05_b9e33638d08df5a78bc67b03de583796" group-title="陕西频道",宝鸡一套
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/article/a755c52f301e82b0ce2a5aacf895a3bd38fc2720.png@764w_804h_!web-article-pic.avif" group-title="陕西频道",宝鸡二套
+#EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/37b116385343fbf2d30e54e2f57eca8064388f3b.jpg?tbpicau=2023-10-05-05_b9e33638d08df5a78bc67b03de583796" group-title="陕西频道",宝鸡二套
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/qishantai.jpg" group-title="陕西频道",岐山
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226982/index.m3u8
@@ -9,29 +9,44 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227005/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/meishantai.jpg" group-title="陕西频道",眉县新闻综合
 http://39.134.18.69/wh7f454c46tw257115731_1765766598/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227069/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西频道",陕西一套
+#EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/fbabf41fbe096b638913e78249338744e9f8accc.jpg?tbpicau=2023-10-05-05_ee7775b3b3dbf991c49921fcb9467d69" group-title="陕西频道",陕西一套
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226357/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西频道",陕西二套
+#EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/d4f293cad1c8a786bc218d143a09c93d71cf508b.jpg?tbpicau=2023-10-05-05_3d45d83e88ea794c7347f59e27e87729" group-title="陕西频道",陕西二套
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西频道",陕西三套
+#EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/fdde8144ebf81a4cd438551b922a6059272da6cc.jpg?tbpicau=2023-10-05-05_c2df72ef5b12ef5b49dc2f3cd9d0e190" group-title="陕西频道",陕西三套
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西频道",陕西四套
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西频道",陕西五套
+#EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/380713ce36d3d5392537b6117f87e950372ab0cc.jpg?tbpicau=2023-10-05-05_1be43337a6b64be7dd970ae851518652" group-title="陕西频道",陕西五套
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西频道",陕西六套
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西频道",陕西七套
+#EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/96e4cf3d70cf3bc7e40b0af68c00baa1cc112a8b.jpg?tbpicau=2023-10-05-05_a3124aef8f2c4db6d00e7087ff056586" group-title="陕西频道",陕西四套
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
+#EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/cb6aef50352ac65c890fdfa1bef2b21191138acc.jpg?tbpicau=2023-10-05-05_b81b31ad7cbf1ef5cd2f306b50abd56d" group-title="陕西频道",陕西七套
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西频道",陕西八套
+#EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/96e4cf3d70cf3bc7660a743e9400baa1cf112acc.jpg?tbpicau=2023-10-05-05_883f1c01dc50ee7d9a2ad1d419e61cd3" group-title="陕西频道",陕西六套
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8
+#EXTINF:-1 tvg-logo="https://imgsa.baidu.com/forum/pic/item/5ca6d71373f08202e9ed932844fbfbedaa641b93.jpg" group-title="陕西频道",陕西农林卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
+#EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/c4c7c05c1038534360c53ef3d613b07ec88088cc.jpg?tbpicau=2023-10-05-05_ae0ac092592f23b40800b671dd965e04" group-title="陕西频道",陕西八套
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
-#EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/f81a96529822720e1ea025313ecb0a46f01fabf9.jpg?tbpicau=2023-10-05-05_8c524e672281355029c855e785a98186" group-title="陕西频道",西安新闻综合
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
 #EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/b7ce0ff790529822635dfe0892ca7bcb0846d4f9.jpg?tbpicau=2023-10-05-05_2a25f7436ca93f5c2950c8915647020d" group-title="陕西频道",西安都市
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226367/index.m3u8
-#EXTINF:-1 tvg-logo="https://tiebapic.baidu.com/forum/w%3D720%3Bq%3D80/sign=9e962b69cf58d109c4e3abb0e163bd82/1e30e924b899a9010fca132140950a7b0208f52e.jpg?tbpicau=2023-10-05-05_f240c0b6b1a7e2abd708bdde9b9f9085" group-title="陕西频道",西安商务资迅
+#EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/f81a96529822720e1ea025313ecb0a46f01fabf9.jpg?tbpicau=2023-10-05-05_8c524e672281355029c855e785a98186" group-title="陕西频道",西安新闻综合
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
+#EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/ec780c7b02087bf4f4938bdab4d3572c10dfcff1.jpg?tbpicau=2023-10-05-05_853761479e8bf537fbb750ae63263827" group-title="陕西频道",西安影视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226369/index.m3u8
+#EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/06ee978fa0ec08fa5a7ecf941fee3d6d54fbdaf1.jpg?tbpicau=2023-10-05-05_3f60e207863b0f1abcf76af30b4b12e2" group-title="陕西频道",西安商务资迅
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
-
+#EXTINF:-1 group-title="陕西频道",西安教育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
+#EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/506681d6277f9e2ff54ac13b5930e924b999f3f1.jpg?tbpicau=2023-10-05-05_58f848b8d009182ebec407dfb9b3f1b3" group-title="陕西频道",西安丝路
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
+#EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/41bcfe198618367ad1968d1c6b738bd4b11ce5c6.jpg?tbpicau=2023-10-05-05_e83dcc2f92086a3e84a62acc8d60bba0" group-title="陕西频道",咸阳综合
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/b64543a98226cffc52d52272b5014a90f703ea77?x-bce-process=image/resize,m_lfit,h_700,limit_1/quality,Q_80" group-title="陕西频道",麟游
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227072/index.m3u8
+#EXTINF:-1 group-title="陕西频道",渭南公共
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227001/index.m3u8
+#EXTINF:-1 group-title="陕西频道",渭南综合
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
